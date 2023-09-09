@@ -1,0 +1,6 @@
+tensorflow==2.5.0
+opencv-python==4.5.3
+numpy==1.21.2
+matplotlib==3.4.3
+imageio==2.9.0
+gdown==3.13.0
