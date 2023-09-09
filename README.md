@@ -7,13 +7,11 @@ Real-time Lip Reading: With LipNet, you can perform lip reading in real-time, ma
 Training and Customization: The project includes tools and documentation for training LipNet on your own dataset, allowing for customization and adaptation to specific use cases.
 
 Table of Contents:
-Installation
-Usage
-Training
-Demo
-Contributing
-License
-Installation
+Installation,
+Usage,
+Training,
+Demo.
+
 
 # Clone the repository
 git clone https://github.com/devjedan/lip-reading-AI.git
