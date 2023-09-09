@@ -6,11 +6,6 @@ Advanced Lip Reading: LipNet employs a powerful combination of Conv3D and Bidire
 Real-time Lip Reading: With LipNet, you can perform lip reading in real-time, making it suitable for applications like live transcription and augmented communication devices.
 Training and Customization: The project includes tools and documentation for training LipNet on your own dataset, allowing for customization and adaptation to specific use cases.
 
-Table of Contents:
-Installation,
-Usage,
-Training,
-Demo.
 
 
 # Clone the repository
