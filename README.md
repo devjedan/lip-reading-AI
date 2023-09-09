@@ -13,6 +13,7 @@ git clone https://github.com/devjedan/lip-reading-AI.git
 
 # Install required dependencies
 pip install -r requirements.txt
+
 Usage
 
 Download raw video data from youtube or any other source and custom train the model to match the expectations.
