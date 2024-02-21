@@ -1,7 +1,7 @@
 # LipNet
 
 # Description
-Key Features
+
 Advanced Lip Reading: LipNet employs a powerful combination of Conv3D and Bidirectional LSTM layers to capture intricate lip movements and convert them into textual representations.
 Real-time Lip Reading: With LipNet, you can perform lip reading in real-time, making it suitable for applications like live transcription and augmented communication devices.
 Training and Customization: The project includes tools and documentation for training LipNet on your own dataset, allowing for customization and adaptation to specific use cases.
